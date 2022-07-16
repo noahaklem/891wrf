@@ -1,6 +1,6 @@
 # 891wrf
 
-This was an interview I really messed up. I think it was nerves for me. Very simple project of recreating a portion of the website. However, I recreated the interview question here to show that I have the skills needed to complete the project.
+This was an interview I really messed up. I think it was nerves for me. It was a very simple project of recreating a portion of the website with React and JavaScript. However, I recreated the interview question here to show that I have the skills needed to complete the project.
 
 I appreciate the opportunity to interview. A couple things that I need to work on:
 
